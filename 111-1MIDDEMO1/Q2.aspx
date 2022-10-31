@@ -23,6 +23,7 @@
             <asp:DropDownList ID="dpl_City" runat="server"></asp:DropDownList>
             <asp:DropDownList ID="dpl_Area" runat="server"></asp:DropDownList><br />
             <asp:Button ID="btn_Submit" runat="server" Text="送出" Width="80px" />
+
         </div>
     </form>
 </body>

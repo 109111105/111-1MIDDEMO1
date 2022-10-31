@@ -11,6 +11,9 @@ namespace _111_1MIDDEMO1 {
         string[,] s_Area = new string[2, 3] {
             {"中正區", "文山區", "大安區"},
             {"淡水區", "石碇區", "土城區"}
+
+
+
         };
 
         protected void Page_Load(object sender, EventArgs e) {
